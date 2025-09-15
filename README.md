@@ -20,4 +20,4 @@ write any command like
     - cd 
     - dir
     - echo 
-    - etc 
+    etc..........
