@@ -14,3 +14,10 @@ then you have to download go and write this in command line
 ```
 go run Shell.go
 ```
+write ant command like 
+
+    - Mkdir 
+    - cd 
+    - dir
+    - echo 
+    - etc 
