@@ -1,11 +1,10 @@
 # Simple-Shell
 a simple shell in Go it is not a full project it is just using exec.Command("powershell", "-Command", input) for making shell work in windows 
 
-# how to make it work 
+# Getting Started 
 
-first clone the repo 
-
-```
+### 1. Clone the repo
+```bash
 git clone [Https]
 ```
 
@@ -20,4 +19,7 @@ write any command like
     - cd 
     - dir
     - echo 
+    - exit 
     etc..........
+
+there are comments explaining every line in the code
